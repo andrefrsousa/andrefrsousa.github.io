@@ -48,11 +48,6 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
 <div class="sharebuttons">
   <hr />
   <br/>
-
-    <div class="sharebuttonstext">
-        <h3>I am also on 👉</h3>
-    </div>
-
   <ul>
     <li class="linkedin">
       <a href="https://www.linkedin.com/in/andrefrsousa/">
