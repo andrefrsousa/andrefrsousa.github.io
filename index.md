@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<br/>
 
 # Hello! 👋
 
@@ -12,6 +13,7 @@ When I’m not writing code, I’m usually travelling, taking photos, watching m
 
 Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andrefrsousa@icloud.com).
 
+<br/>
 
 # Apps I’ve worked on 👨🏻‍💻
 
