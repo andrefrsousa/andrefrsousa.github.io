@@ -44,6 +44,7 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 <!-- Footer -->
 <footer class="text-center">
 
+<ul>
 {% if site.github_username %}
   <li>
     <a href="https://github.com/{{ site.github_username }}">
@@ -51,5 +52,6 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
     </a>
   </li>
 {% endif %}
+  </ul>
 </footer>
                         
