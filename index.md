@@ -5,7 +5,7 @@ layout: default
 <br/>
 
 <p align="center">
-  <img width="200" height="200" src="/images/me.png">
+  <img width="184" height="184" src="/images/me.png">
 </p>
 
 # Hello! 👋
