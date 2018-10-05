@@ -49,7 +49,7 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
   <hr />
   <br/>
 
-    <center><h3>I am also on 👉</h3></center>
+    <center><h2>I am also on 👉</h2></center>
 
   <ul>
     <li class="linkedin">
