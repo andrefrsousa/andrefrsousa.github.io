@@ -4,11 +4,9 @@ layout: default
 
 <br/>
 
-<div style="text-align:center">
-
-![](/images/me.png)
-
-</div>
+<p align="center"> 
+    <img src=![](/images/me.png)>
+</p>
 
 # Hello! 👋
 
