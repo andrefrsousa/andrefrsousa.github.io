@@ -53,22 +53,22 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
     </li>
     <li class="linkedin">
       <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape }}" target="_blank">
-        {% include images/social/linkedin.svg %}
+        {% include social/linkedin.svg %}
       </a>
     </li>
     <li class="gitlab">
       <a href="http://news.ycombinator.com/submitlink?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&t={{ page.title | default:"" | uri_escape}}" target="_blank">
-        {% include images/social/github.svg %}
+        {% include social/github.svg %}
       </a>
     </li>
     <li class="stackoverflow">
       <a href="https://twitter.com/intent/tweet?via=USERNAME&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" target="_blank">
-        {% include images/social/stackoverflow.svg %}
+        {% include social/stackoverflow.svg %}
       </a>
     </li>
     <li class="medium">
       <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
-        {% include images/social/medium.svg %}
+        {% include social/medium.svg %}
       </a>
     </li>
   </ul>
