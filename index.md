@@ -48,11 +48,8 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 <div class="sharebuttons">
   <hr />
   <ul>
-    <li>
-      <p class="sharetitle"> Share this: </p>
-    </li>
     <li class="linkedin">
-      <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape }}" target="_blank">
+      <a href="https://www.linkedin.com/in/andrefrsousa/">
         {% include social/linkedin.svg %}
       </a>
     </li>
