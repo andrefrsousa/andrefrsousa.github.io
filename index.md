@@ -47,6 +47,7 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 
 <div class="sharebuttons">
   <hr />
+  <br/>
   <ul>
     <li class="linkedin">
       <a href="https://www.linkedin.com/in/andrefrsousa/">
@@ -65,7 +66,7 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
     </li>
     <li class="medium">
       <a href="https://medium.com/@andrefrsousa">
-        {% include social/medium.svg %}
+        {% include social/stackoverflow.svg %}
       </a>
     </li>
   </ul>
