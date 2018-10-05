@@ -4,9 +4,7 @@ layout: default
 
 <br/>
 
-<p align="center">
-  <img width="184" height="184" src="/images/me.png">
-</p>
+<img width="184" height="184" src="/images/me.png">
 
 # Hello! 👋
 
@@ -41,3 +39,53 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 - [<span class="blue">ASCII Faces</span>](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ~ ASCII Faces is a tool contains a list of best ascii emoticons.
 
 - [<span class="blue">Ministry Assistant</span>](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is available for free! Using a modern design, it turns your ministry more organized and efficient. Always keep track of your field service aspects: visits, reports, and territories.
+
+
+
+
+
+<p class="has-text-centered">
+<!-- GITHUB -->
+<a class="button is-large is-white" href="https://github.com/cesarferreira" title="github">
+    <span class="icon">
+        <i class="fa fa-github"></i>
+    </span>
+</a>
+<!-- MEDIUM -->
+<a class="button is-large is-white" href="https://medium.com/@cesarmcferreira/" title="medium">
+    <span class="icon">
+        <i class="fa fa-medium"></i>
+    </span>
+</a>
+<!-- TWITTER -->
+<a class="button is-large is-white" href="https://twitter.com/cesarmcferreira" title="twitter">
+    <span class="icon">
+        <i class="fa fa-twitter"></i>
+    </span>
+</a>
+<!-- EMAIL -->
+<a class="button is-large is-white" href="mailto:cesar.manuel.ferreira@gmail.com" title="email">
+    <span class="icon">
+        <i class="fa fa-envelope"></i>
+    </span>
+</a>
+<!-- RUBYGEMS -->
+<a class="button is-large is-white" href="https://rubygems.org/profiles/cesarferreira" title="rubygems">
+    <span class="icon">
+        <i class="fa fa-diamond"></i>
+    </span>
+</a>
+<!-- LINKEDIN -->
+<a class="button is-large is-white" href="http://linkedin.com/in/cesarferreira" title="linkedin">
+    <span class="icon">
+        <i class="fa fa-linkedin"></i>
+    </span>
+</a>
+<!-- NPM -->
+<!-- <a class="button is-large is-white" href="https://www.npmjs.com/~cesarferreira" title="npm">
+    <span class="icon">
+        <i class="fa fa-certificate"></i>
+    </span>
+</a> -->
+</p>
+                        
