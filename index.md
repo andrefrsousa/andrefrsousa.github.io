@@ -4,9 +4,7 @@ layout: default
 
 <br/>
 
-<p align="center"> 
-    <img src=![](/images/me.png)>
-</p>
+![](/images/me.png){ width="200" height="200" style="display: block; margin: 0 auto" }
 
 # Hello! 👋
 
