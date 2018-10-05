@@ -66,7 +66,7 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
     </li>
     <li class="medium">
       <a href="https://medium.com/@andrefrsousa">
-        {% include social/stackoverflow.svg %}
+        {% include social/medium.svg %}
       </a>
     </li>
   </ul>
