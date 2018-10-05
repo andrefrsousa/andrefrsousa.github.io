@@ -1,3 +1,8 @@
+<center><img width="184" height="184" src="/images/me.png"></center>
+<center><h1>Hello! 👋</h1></center>
+
+
+
 Vida is a simple and beautiful jekyll theme, it has only the essential functions
 so that you can concentrate on the content of your blog.
 

@@ -45,13 +45,23 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 <footer class="text-center">
 
 <ul>
-{% if site.github_username %}
-  <li>
-    <a href="https://github.com/{{ site.github_username }}">
-      <i class="fa fa-github"></i> GitHub
-    </a>
-  </li>
-{% endif %}
-  </ul>
+    {% if site.github_username %}
+        <li>
+            <a href="https://github.com/{{ site.github_username }}">
+                <i class="fa fa-github"></i> GitHub
+            </a>
+        </li>
+    {% endif %}
+
+    {% if site.linkedin_username %}
+        <li>
+            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                <i class="fa fa-linkedin"></i> LinkedIn
+            </a>
+        </li>
+    {% endif %}
+
+</ul>
+
 </footer>
                         
