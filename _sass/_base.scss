@@ -68,7 +68,6 @@ hr {
     border-top: 2px solid $border-color;
 }
 
-
 /* Share buttons */
 
 .sharebuttons {
@@ -93,15 +92,15 @@ hr {
   height: 40px;
 }
 
-.sharebuttons .reddit svg {
+.sharebuttons .medium svg {
   fill: #FF4500;
 }
 
-.sharebuttons .hn svg {
+.sharebuttons .gitlab svg {
   fill: #F0652F;
 }
 
-.sharebuttons .twitter svg {
+.sharebuttons .stackoverflow svg {
   fill: #1DA1F2;
 }
 
