@@ -70,6 +70,10 @@ hr {
 
 /* Share buttons */
 
+.sharebuttonstext {
+    text-align: center;
+}
+
 .sharebuttons {
     margin: 0 auto 0 auto;
 }
@@ -93,14 +97,17 @@ hr {
 
 .sharebuttons .linkedin svg {
     fill: #333;
+    margin-right: 12px;
 }
 
 .sharebuttons .gitlab svg {
     fill: #333;
+    margin-right: 12px;
 }
 
 .sharebuttons .stackoverflow svg {
     fill: #333;
+    margin-right: 12px;
 }
 
 .sharebuttons .medium svg {
