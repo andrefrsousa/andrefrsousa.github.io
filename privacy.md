@@ -1,7 +1,7 @@
 ---
 layout: default
-title:     About
-permalink: /about/
+title:     "Privacy Policy"
+permalink: /privacy/
 ---
 
 Vida is a minimalist jekyll theme.
