@@ -12,7 +12,7 @@ I am André Sousa, I was born in the city of Leiria, in 1990. I studied at the P
 I am also a full time husband and father that in its spare time like to do code review and develop some android apps.
 I also drink coffee ☕️
 
-Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andrefrsousa@icloud.com).
+Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andrefrsousa@icloud.com).
 
 <br/>
 
@@ -48,6 +48,11 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 <div class="sharebuttons">
   <hr />
   <br/>
+
+  <li>
+      <p class="sharetitle"> I am also on </p>
+    </li>
+
   <ul>
     <li class="linkedin">
       <a href="https://www.linkedin.com/in/andrefrsousa/">
@@ -66,7 +71,7 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
     </li>
     <li class="medium">
       <a href="https://medium.com/@andrefrsousa">
-        {% include social/medium.svg %}
+        {% include social/medium.png %}
       </a>
     </li>
   </ul>
