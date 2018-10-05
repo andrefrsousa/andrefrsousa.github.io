@@ -43,128 +43,13 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 
 <!-- Footer -->
 <footer class="text-center">
-    <div class="footer-above">
-        <div class="container">
-            <div class="row">
-                <div class="footer-col col-md-4">
-                    <h3>Location</h3>
-                    <p>{{ site.address_street }}
-                        <br>{{ site.address_city }}, {{ site.address_state }} {{ site.address_zip }}</p>
-                </div>
-                <div class="footer-col col-md-4">
-                    <h3>Around the Web</h3>
-                    <ul class="list-inline">
-                        {% if site.facebook_username %}
-                        <li>
-                            <a href="https://www.facebook.com/{{ site.facebook_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                        </li>
-                        {% endif %}
-                        {% if site.twitter_username %}
-                        <li>
-                            <a href="https://twitter.com/{{ site.twitter_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                        </li>
-                        {% endif %}
-                        {% if site.github_username %}
-                        <li>
-                            <a href="https://github.com/{{ site.github_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
-                        </li>
-                        {% endif %}
-                        {% if site.instagram_username %}
-                        <li>
-                            <a href="https://www.instagram.com/{{ site.instagram_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
-                        </li>
-                        {% endif %}
-                        {% if site.stackoverflow_url %}
-                        <li>
-							<a href="{{ site.stackoverflow_url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-stack-overflow"></i></a>
-                        </li>
-                        {% endif %}
-                        {% if site.googleplus_username %}
-                        <li>
-							<a href="https://plus.google.com/+{{ site.googleplus_username }}" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-                        </li>
-                        {% endif %}
-                        {% if site.skype_username %}
-                        <li>
-							<a href="skype:{{ site.skype_username }}?call" class="btn-social btn-outline"><i class="fa fa-fw fa-skype"></i></a>
-                        </li>
-                        {% endif %}
-                        {% if site.linkedin_url %}
-                        <li>
-							<a href="{{ site.linkedin_url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                        </li>
-                        {% endif %}
-                    </ul>
-                </div>
-                <div class="footer-col col-md-4">
-                    <h3>About {{ site.title }}</h3>
-                    <p><a href="http://startbootstrap.com">Start Bootstrap</a> is an open source library of Bootstrap themes and templates.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="footer-below">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    Copyright &copy; Your Website {{ site.time | date: "%Y" }}
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-<div class="scroll-top page-scroll hidden-sm hidden-xs hidden-lg hidden-md">
-    <a class="btn btn-primary" href="#page-top">
-        <i class="fa fa-chevron-up"></i>
+
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
     </a>
-</div>
-
-
-
-
-<p class="has-text-centered">
-<!-- GITHUB -->
-<a class="button is-large is-white" href="https://github.com/cesarferreira" title="github">
-    <span class="icon">
-        <i class="fa fa-github"></i>
-    </span>
-</a>
-<!-- MEDIUM -->
-<a class="button is-large is-white" href="https://medium.com/@cesarmcferreira/" title="medium">
-    <span class="icon">
-        <i class="fa fa-medium"></i>
-    </span>
-</a>
-<!-- TWITTER -->
-<a class="button is-large is-white" href="https://twitter.com/cesarmcferreira" title="twitter">
-    <span class="icon">
-        <i class="fa fa-twitter"></i>
-    </span>
-</a>
-<!-- EMAIL -->
-<a class="button is-large is-white" href="mailto:cesar.manuel.ferreira@gmail.com" title="email">
-    <span class="icon">
-        <i class="fa fa-envelope"></i>
-    </span>
-</a>
-<!-- RUBYGEMS -->
-<a class="button is-large is-white" href="https://rubygems.org/profiles/cesarferreira" title="rubygems">
-    <span class="icon">
-        <i class="fa fa-diamond"></i>
-    </span>
-</a>
-<!-- LINKEDIN -->
-<a class="button is-large is-white" href="http://linkedin.com/in/cesarferreira" title="linkedin">
-    <span class="icon">
-        <i class="fa fa-linkedin"></i>
-    </span>
-</a>
-<!-- NPM -->
-<!-- <a class="button is-large is-white" href="https://www.npmjs.com/~cesarferreira" title="npm">
-    <span class="icon">
-        <i class="fa fa-certificate"></i>
-    </span>
-</a> -->
-</p>
+  </li>
+{% endif %}
+</footer>
                         
