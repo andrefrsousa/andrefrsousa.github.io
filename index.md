@@ -41,27 +41,6 @@ Want to get in touch? Shoot me an [<span class="blue">email</span>](mailto:andre
 - [<span class="blue">Ministry Assistant</span>](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is available for free! Using a modern design, it turns your ministry more organized and efficient. Always keep track of your field service aspects: visits, reports, and territories.
 
 
-<!-- Footer -->
-<footer class="text-center">
-
-<ul>
-    {% if site.github_username %}
-        <li>
-            <a href="https://github.com/{{ site.github_username }}">
-                <i class="fa fa-github"></i> GitHub
-            </a>
-        </li>
-    {% endif %}
-
-    {% if site.linkedin_username %}
-        <li>
-            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-                <i class="fa fa-linkedin"></i> LinkedIn
-            </a>
-        </li>
-    {% endif %}
-
-</ul>
-
-</footer>
+<br/>
+<br/>
                         
