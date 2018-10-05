@@ -1,11 +1,11 @@
 ---
 layout:    page
-title:     Privacy Policy
-permalink: /privacypolicy/
+title:     About
+permalink: /about/
 ---
 
 Vida is a minimalist jekyll theme.
 
-- Author: André Sousa
+- Author: Alex Sun
 - Email:  syaningv@gmail.com
 - Github: [https://github.com/syaning/vida](https://github.com/syaning/vida)
