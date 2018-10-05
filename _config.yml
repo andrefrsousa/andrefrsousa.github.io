@@ -1,6 +1,6 @@
 title: André Sousa
 baseurl: 
-date_format: "%Y-%m-%d"
+github_username: andrefrsousa
 
 # Build settings
 kramdown:
