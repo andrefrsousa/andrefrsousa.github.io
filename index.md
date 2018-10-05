@@ -4,7 +4,7 @@ layout: default
 
 <br/>
 
--><img width="184" height="184" src="/images/me.png"><--
+<center><img width="184" height="184" src="/images/me.png"></center>
 
 # Hello! 👋
 
