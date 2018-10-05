@@ -65,7 +65,7 @@ code {
 }
 hr {
     border: none;
-    border-top: 1px solid $border-color;
+    border-top: 2px solid $border-color;
 }
 
 /* Share buttons */
@@ -76,12 +76,11 @@ hr {
 
 .sharebuttons ul {
     text-align: center;
+    margin-top: 10px;
 }
 
 .sharebuttons ul li {
     display: inline;
-    margin-right: 10px;
-    margin-left: 10px;
 }
 
 .sharebuttons ul li a {
@@ -93,18 +92,23 @@ hr {
     height: 40px;
 }
 
-.sharebuttons .medium svg {
+.sharebuttons .linkedin svg {
     fill: #333;
+    margin-right: 10px;
 }
 
 .sharebuttons .gitlab svg {
     fill: #333;
+    margin-right: 10px;
 }
 
 .sharebuttons .stackoverflow svg {
     fill: #333;
+    margin-right: 10px;
 }
 
-.sharebuttons .linkedin svg {
+.sharebuttons .medium svg {
     fill: #333;
+    margin-right: 10px;
 }
+
