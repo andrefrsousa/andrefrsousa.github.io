@@ -4,6 +4,8 @@ layout: default
 
 <br/>
 
+![](/images/me.png)
+
 # Hello! 👋
 
 I am André Sousa, I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. Since 2012 I’ve been working on [<span class="blue">@WIT_Software</span>](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FWIT_Software&sa=D&sntz=1&usg=AFQjCNGvrLh_7lGUHtOvTw5r1g4arrodRw) as a senior android developer from [<span class="blue">#Leiria</span>](https://www.google.com/maps/place/Leiria/)
