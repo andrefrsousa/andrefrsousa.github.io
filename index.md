@@ -57,16 +57,19 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
         {% include social/linkedin.svg %}
       </a>
     </li>
+
     <li class="gitlab">
       <a href="https://github.com/andrefrsousa">
         {% include social/github.svg %}
       </a>
     </li>
+
     <li class="stackoverflow">
       <a href="https://stackoverflow.com/users/1574250/andré-sousa">
         {% include social/stackoverflow.svg %}
       </a>
     </li>
+    
     <li class="medium">
       <a href="https://medium.com/@andrefrsousa">
         {% include social/medium.svg %}
