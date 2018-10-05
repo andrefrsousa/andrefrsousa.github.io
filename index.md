@@ -49,9 +49,7 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
   <hr />
   <br/>
 
-  <li>
-      <p class="sharetitle"> I am also on </p>
-    </li>
+    <center><h3>I am also on 👉</h3></center>
 
   <ul>
     <li class="linkedin">
