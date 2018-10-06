@@ -4,7 +4,7 @@ layout: default
 
 <br/>
 
-<center><img width="184" height="184" src="/images/me.png"></center>
+<center><img width="168" height="168" src="/images/me.png"></center>
 <center><h1>André Sousa</h1></center>
 
 <br/>
