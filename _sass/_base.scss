@@ -74,8 +74,14 @@ hr {
     margin: 0 auto 0 auto;
 }
 
+.sharebuttonstable {
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+}
+
 .sharebuttons ul {
     text-align: center;
+    list-style: none;
 }
 
 .sharebuttons ul li {

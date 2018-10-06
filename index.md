@@ -44,10 +44,17 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
 <br/>
 <br/>
 
+<hr />
+
+<br/>
 
 <div class="sharebuttons">
-  <hr />
-  <br/>
+  
+
+    <center><h3>I am also on 👉</h3></div>
+
+<div class="sharebuttonstable">
+
   <ul>
     <li class="linkedin">
       <a href="https://www.linkedin.com/in/andrefrsousa/">
@@ -70,5 +77,6 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
       </a>
     </li>
   </ul>
+</div>
 </div>
                         
