@@ -18,7 +18,7 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
 
 ## Apps I’ve worked on 👨🏻‍💻
 
-- [<span class="blue">Plus Message</span>](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018-Now) ~ Instant messaging app compliant with the RCS specification for Japan market
+- [Plus Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018-Now) ~ Instant messaging app compliant with the RCS specification for Japan market
 
 - [<span class="blue">WIT RCS Apps</span>](https://www.wit-software.com/products/rcs-suite/) (2013-Now) ~ Instant messaging and VoIP Android apps compliant with the RCS specification
 
@@ -48,10 +48,10 @@ Want to get in touch? Send me an [<span class="blue">email</span>](mailto:andref
 
 <br/>
 
+<center><h3>I am also on 👉</h3></center>
+
 <div class="sharebuttons">
   
-
-    <center><h3>I am also on 👉</h3></div>
 
 <div class="sharebuttonstable">
 
