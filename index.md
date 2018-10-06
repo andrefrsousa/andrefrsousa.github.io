@@ -46,35 +46,31 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
 
 <br/>
 
-<center><h3>I am also on 👉</h3></center>
-
+<center>
+   <h3>I am also on 👉</h3>
+</center>
 <div class="sharebuttons">
-  
-
-<div class="sharebuttonstable">
-
-  <ul>
-    <li class="linkedin">
-      <a href="https://www.linkedin.com/in/andrefrsousa/">
-        {% include social/linkedin.svg %}
-      </a>
-    </li>
-    <li class="gitlab">
-      <a href="https://github.com/andrefrsousa">
-        {% include social/github.svg %}
-      </a>
-    </li>
-    <li class="stackoverflow">
-      <a href="https://stackoverflow.com/users/1574250/andré-sousa">
-        {% include social/stackoverflow.svg %}
-      </a>
-    </li>
-    <li class="medium">
-      <a href="https://medium.com/@andrefrsousa">
-        {% include social/medium.svg %}
-      </a>
-    </li>
-  </ul>
-</div>
+   <ul>
+      <li class="linkedin">
+         <a href="https://www.linkedin.com/in/andrefrsousa/">
+         {% include social/linkedin.svg %}
+         </a>
+      </li>
+      <li class="gitlab">
+         <a href="https://github.com/andrefrsousa">
+         {% include social/github.svg %}
+         </a>
+      </li>
+      <li class="stackoverflow">
+         <a href="https://stackoverflow.com/users/1574250/andré-sousa">
+         {% include social/stackoverflow.svg %}
+         </a>
+      </li>
+      <li class="medium">
+         <a href="https://medium.com/@andrefrsousa">
+         {% include social/medium.svg %}
+         </a>
+      </li>
+   </ul>
 </div>
                         
