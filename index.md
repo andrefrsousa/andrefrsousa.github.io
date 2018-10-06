@@ -18,15 +18,15 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
 
 ## Apps I’ve worked on 👨🏻‍💻
 
-- [Plus Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018-Now) ~ Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
+- [**Plus Message**](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018-Now) ~ Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
-- [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013-Now) ~ Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
+- [**WIT RCS Apps**](https://www.wit-software.com/products/rcs-suite/) (2013-Now) ~ Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
-- [Jio4GVoice](https://play.google.com/store/apps/details?id=com.jio.join) (2014-2016) ~ Developed for the Indian market, Jio is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
+- [**Jio4GVoice**](https://play.google.com/store/apps/details?id=com.jio.join) (2014-2016) ~ Developed for the Indian market, Jio is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
 - Vodafone mobile device shop assistant (2013) ~ Shop assistant for mobile devices running on Android tablet connected to a server that feeds the data through REST services in XML format.
 
-- [Vodafone Message+](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013) ~ Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
+- [**Vodafone Message+**](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013) ~ Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
 <br/>
 
