@@ -18,27 +18,25 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
 
 ## Apps I’ve worked on 👨🏻‍💻
 
-- [Plus Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018-Now) ~ Instant messaging app compliant with the RCS specification for Japan market
+- [Plus Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018-Now) ~ Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
-- [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013-Now) ~ Instant messaging and VoIP Android apps compliant with the RCS specification
+- [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013-Now) ~ Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
-- [Jio4GVoice](https://play.google.com/store/apps/details?id=com.jio.join) (2014-2016) ~ Instant messaging app compliant with the RCS specification for India market
-
-- Vodafone live devices (2013) ~ Shop assistant for mobile devices running on Android tablet connected to a server that feeds the data through REST services in XML format.
+- [Jio4GVoice](https://play.google.com/store/apps/details?id=com.jio.join) (2014-2016) ~ Developed for the Indian market, Jio is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
 - Vodafone mobile device shop assistant (2013) ~ Shop assistant for mobile devices running on Android tablet connected to a server that feeds the data through REST services in XML format.
 
-- [Vodafone Message+](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013) ~ Vodafone Call+ brings your conversations to life! Now you can have a more interactive and personal calling experience by adding content on the go. You can replace your phone button with Vodafone Call+!
+- [Vodafone Message+](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013) ~ Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
 <br/>
 
 ## Side Projects 💪
 
-- [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ~ Activity manager launches hidden activities and creates home screen shortcuts for installed apps.
+- [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ~ Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
 
-- [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ~ ASCII Faces is a tool contains a list of best ascii emoticons.
+- [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ~ ASCII Faces is a tool that contains a list of best ascii emoticons that can be add to the device clipboard and pasted on any app.
 
-- [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is available for free! Using a modern design, it turns your ministry more organized and efficient. Always keep track of your field service aspects: visits, reports, and territories.
+- [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
 
 
 <br/>
