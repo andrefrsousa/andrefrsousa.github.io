@@ -49,6 +49,7 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
 <center>
    <h3>I am also on 👉</h3>
 </center>
+
 <div class="sharebuttons">
    <ul>
       <li class="linkedin">
@@ -73,4 +74,10 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
       </li>
    </ul>
 </div>
+
+<br/>
+
+<center>
+   <h5>© 2018 André Sousa</h5>
+</center>
                         
