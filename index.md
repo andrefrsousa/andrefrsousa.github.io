@@ -4,8 +4,9 @@ layout: default
 
 <br/>
 
-<center><img width="168" height="168" src="/images/me.png"></center>
-<center><h1>André Sousa</h1></center>
+<img width="168" height="168" src="/images/me.png">
+<h1>André Sousa</h1>
+<h1 class="mdc-typography--headline1">Big header</h1>
 
 <br/>
 
