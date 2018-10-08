@@ -6,6 +6,7 @@ layout: default
 
 <center><img width="168" height="168" src="/images/me.png"></center>
 <center><h1>André Sousa</h1></center>
+<center><h3>Android developer since 2011</h3></center>
 
 <br/>
 
