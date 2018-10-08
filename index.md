@@ -4,8 +4,8 @@ layout: default
 
 <br/>
 
-<img width="168" height="168" src="/images/me.png">
-<h1>André Sousa</h1>
+<center><img width="168" height="168" src="/images/me.png"></center>
+<center><h1>André Sousa</h1></center>
 
 <br/>
 
@@ -35,7 +35,7 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
 
 <br/>
 
-## Side Projects 💪
+## My Side Projects 💪
 
 - [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ~ Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
 
