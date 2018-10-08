@@ -6,7 +6,6 @@ layout: default
 
 <center><img width="168" height="168" src="/images/me.png"></center>
 <center><h1>André Sousa</h1></center>
-<center><h3>Android developer since 2011</h3></center>
 
 <br/>
 
@@ -27,6 +26,8 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
 - [**WIT RCS Apps**](https://www.wit-software.com/products/rcs-suite/) (2013-Now) ~ Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
 - [**Jio4GVoice**](https://play.google.com/store/apps/details?id=com.jio.join) (2014-2016) ~ Developed for the Indian market, Jio is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
+
+- [**Wavee**](https://play.google.com/store/apps/details?id=com.singtel.wavee.release) (2014-2016) ~ Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
 - Vodafone mobile device shop assistant (2013) ~ Shop assistant for mobile devices running on Android tablet connected to a server that feeds the data through REST services in XML format.
 
