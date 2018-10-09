@@ -80,6 +80,7 @@ hr {
     list-style: none;
     margin: 0;
     padding: 0;
+    margin-top: 4px;
 }
 
 .sharebuttons ul li {
@@ -93,26 +94,27 @@ hr {
 .sharebuttons ul li svg {
     width: 24px;
     height: 24px;
+    padding: 4px
 }
 
 .sharebuttons .linkedin svg {
     fill: $text-color;
-    margin-right: 6px;
+    margin-right: 12px;
 }
 
 .sharebuttons .gitlab svg {
     fill: $text-color;
-    margin-right: 6px;
+    margin-right: 12px;
 }
 
 .sharebuttons .stackoverflow svg {
     fill: $text-color;
-    margin-right: 6px;
+    margin-right: 12px;
 }
 
 .sharebuttons .medium svg {
     fill: $text-color;
-    margin-right: 6px;
+    margin-right: 12px;
 }
 
 .sharebuttons .email svg {
@@ -129,13 +131,6 @@ h1.title {
 }
 
 h3.description {
-    font-weight: 400;
-    word-break: break-word;
-    margin: 0;
-    margin-top: 4px;
-}
-
-h4.links {
     font-weight: 400;
     word-break: break-word;
     margin: 0;
