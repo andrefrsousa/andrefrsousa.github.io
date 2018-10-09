@@ -11,6 +11,8 @@ layout: default
 	<h4 class="links"><a href="https://www.linkedin.com/in/andrefrsousa/">LinedIn</a> / <a href="https://github.com/andrefrsousa">GitHub</a> / <a href="https://stackoverflow.com/users/1574250/andré-sousa">StackOverflow</a> / <a href="https://medium.com/@andrefrsousa">Medium</a></h4>
 </center>
 
+ <hr />
+ 
 <br/>
 
 ## About me 👱‍♂️
