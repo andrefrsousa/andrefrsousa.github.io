@@ -8,7 +8,35 @@ layout: default
 	<img width="160" height="160" src="/images/me.png">
 	<h1 class="title">André Sousa</h1>
 	<h3 class="description">Senior software developer</h3>
-	<h4 class="links"><a href="https://www.linkedin.com/in/andrefrsousa/">LinedIn</a> / <a href="https://github.com/andrefrsousa">GitHub</a> / <a href="https://stackoverflow.com/users/1574250/andré-sousa">StackOverflow</a> / <a href="https://medium.com/@andrefrsousa">Medium</a> / <a href="mailto:andrefrsousa@icloud.com">Email</a></h4>
+	<div class="sharebuttons">
+        <ul>
+           <li class="linkedin">
+              <a href="https://www.linkedin.com/in/andrefrsousa/">
+              {% include social/linkedin.svg %}
+              </a>
+           </li>
+           <li class="gitlab">
+              <a href="https://github.com/andrefrsousa">
+              {% include social/github.svg %}
+              </a>
+           </li>
+           <li class="stackoverflow">
+              <a href="https://stackoverflow.com/users/1574250/andré-sousa">
+              {% include social/stackoverflow.svg %}
+              </a>
+           </li>
+           <li class="medium">
+              <a href="https://medium.com/@andrefrsousa">
+              {% include social/medium.svg %}
+              </a>
+           </li>
+           <li class="email">
+              <a href="mailto:andrefrsousa@icloud.com">
+              {% include social/email.svg %}
+              </a>
+           </li>
+        </ul>
+     </div>
 </center>
 
 <br/>
