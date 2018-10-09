@@ -57,3 +57,9 @@ I also drink coffee ☕️
 - [Twitter DM](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
 
 - [Email](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com.
+
+<br/>
+
+ <center>
+    <h5>© 2018 André Sousa</h5>
+ </center>
