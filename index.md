@@ -60,7 +60,7 @@ I also drink coffee ☕️
 
 - [**Jio4GVoice**](https://play.google.com/store/apps/details?id=com.jio.join) (2014 - 2016) ~ App that aims to deliver rich communication through instant messaging and VoIP calls to the Indian market. Compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/)
 
-- <del>[**Wavee**](https://play.google.com/store/apps/details?id=com.singtel.wavee.release)</del> (2014 - 2016) ~ Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/). No longer available in the Google Play Store.
+- <del>[**Wavee**](https://play.google.com/store/apps/details?id=com.singtel.wavee.release) (2014 - 2016)</del> ~ Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/). No longer available in the Google Play Store.
 
 - Vodafone mobile device shop assistant (2013) ~ Shop assistant for mobile devices running on Android tablet connected to a server that feeds the data through REST services in XML format.
 
