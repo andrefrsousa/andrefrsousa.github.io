@@ -6,6 +6,7 @@ layout: default
 
 <center>
 	<img width="168" height="168" src="/images/me.png">
+	<h1 class="mdc-typography--headline1">Big header</h1>
 	<h1>André Sousa</h1>
 	<h2>Senior software developer</h2>
 	<h5><a href="https://www.linkedin.com/in/andrefrsousa/">LinedIn</a> / <a href="https://github.com/andrefrsousa">GitHub</a> / <a href="https://stackoverflow.com/users/1574250/andré-sousa">StackOverflow</a> / <a href="https://medium.com/@andrefrsousa">Medium</a></h5>
