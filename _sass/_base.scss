@@ -95,26 +95,23 @@ hr {
     width: 24px;
     height: 24px;
     padding: 8px;
+    margin: 8px;
 }
 
 .sharebuttons .linkedin svg {
     fill: $text-color;
-    margin-right: 12px;
 }
 
 .sharebuttons .gitlab svg {
     fill: $text-color;
-    margin-right: 12px;
 }
 
 .sharebuttons .stackoverflow svg {
     fill: $text-color;
-    margin-right: 12px;
 }
 
 .sharebuttons .medium svg {
     fill: $text-color;
-    margin-right: 12px;
 }
 
 .sharebuttons .email svg {
