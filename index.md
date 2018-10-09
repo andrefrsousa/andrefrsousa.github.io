@@ -49,3 +49,13 @@ Want to get in touch? Send me an [email](mailto:andrefrsousa@icloud.com).
 - [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ~ ASCII Faces is a tool that contains a list of best ASCII emoticons that can be added to the device clipboard and pasted on any app.
 
 - [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
+
+<br/>
+<hr />
+<br/>
+
+## Contacts 👋
+
+- [Twitter DM](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
+
+- [Email](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com.
