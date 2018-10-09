@@ -6,19 +6,16 @@ layout: default
 
 <center>
 	<img width="168" height="168" src="/images/me.png">
-	<h1 class="mdc-typography--headline1">Big header</h1>
 	<h1>André Sousa</h1>
-	<h2>Senior software developer</h2>
-	<h5><a href="https://www.linkedin.com/in/andrefrsousa/">LinedIn</a> / <a href="https://github.com/andrefrsousa">GitHub</a> / <a href="https://stackoverflow.com/users/1574250/andré-sousa">StackOverflow</a> / <a href="https://medium.com/@andrefrsousa">Medium</a></h5>
+	<h3>Senior software developer</h3>
+	<h4><a href="https://www.linkedin.com/in/andrefrsousa/">LinedIn</a> / <a href="https://github.com/andrefrsousa">GitHub</a> / <a href="https://stackoverflow.com/users/1574250/andré-sousa">StackOverflow</a> / <a href="https://medium.com/@andrefrsousa">Medium</a></h4>
 </center>
 
 <br/>
 
 ## About me 👱‍♂️
 
-Hello! 👋 
-
-I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. Since 2012 I’ve been working on [@WIT_Software](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FWIT_Software&sa=D&sntz=1&usg=AFQjCNGvrLh_7lGUHtOvTw5r1g4arrodRw) as a senior android developer from [#Leiria](https://www.google.com/maps/place/Leiria/)
+Hello! I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. Since 2012 I’ve been working on [@WIT_Software](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FWIT_Software&sa=D&sntz=1&usg=AFQjCNGvrLh_7lGUHtOvTw5r1g4arrodRw) as a senior android developer from [#Leiria](https://www.google.com/maps/place/Leiria/)
 
 I am also a full-time husband and father that in its spare time like to do code review and develop some android apps.
 I also drink coffee ☕️
