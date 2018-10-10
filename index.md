@@ -77,6 +77,12 @@ I also drink coffee ☕️
 - [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
 
 <br/>
+
+## Blog post 💡
+
+- [Publishing apps updates like a PRO 💪](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ~ Use gradle plugin to publish app updates into google play.
+
+<br/>
 <hr />
 <br/>
 
