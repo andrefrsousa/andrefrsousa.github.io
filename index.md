@@ -82,6 +82,8 @@ I also drink coffee ☕️
 
 - [Publishing apps updates like a PRO 💪](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ~ Use gradle plugin to publish app updates into google play.
 
+- [Android Podcasts You Should Listen 🎧](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ~ Android top three podcast list.
+
 <br/>
 <hr />
 <br/>
