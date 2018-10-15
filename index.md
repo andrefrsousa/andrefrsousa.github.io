@@ -31,7 +31,7 @@ layout: default
               </a>
            </li>
            <li class="twitter">
-              <a href="https//twitter.com/andrefrsousa">
+              <a href="https://twitter.com/andrefrsousa">
               {% include social/twitter.svg %}
               </a>
            </li>
