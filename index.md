@@ -26,8 +26,13 @@ layout: default
               </a>
            </li>
            <li class="medium">
-              <a href="https://medium.com/@andrefrsousa">
+              <a href="https://medium.com/andré-sousa">
               {% include social/medium.svg %}
+              </a>
+           </li>
+           <li class="twitter">
+              <a href="https//twitter.com/andrefrsousa">
+              {% include social/twitter.svg %}
               </a>
            </li>
            <li class="email">
