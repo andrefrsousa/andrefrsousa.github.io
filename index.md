@@ -83,18 +83,20 @@ I also drink coffee ☕️
 
 <br/>
 
-## Open source projects 💪
+## Open source projects 👌🏻
 
-[SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) [![](https://img.shields.io/badge/android-43a047.svg)]
+### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/Android-8bc34a.svg) ![](https://img.shields.io/badge/Kotlin-ffc107.svg)
 Android native BottomSheet on steroids.
 
 <br/>
 
 ## Blog posts 💡
 
-- [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ~ Use gradle plugin to publish app updates into google play.
+### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/Android_Studio-9e9e9e.svg) ![](https://img.shields.io/badge/Gragle-616161.svg)
+Use gradle plugin to publish app updates into google play.
 
-- [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ~ My Android top three podcast list.
+### [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/Android-8bc34a.svg)
+My Android top three podcast list.
 
 <br/>
 <hr />
