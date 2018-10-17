@@ -120,7 +120,7 @@ Ministry Assistant is a helpful tool that makes the ministry more organized and 
 
 ## Open source projects 👌
 
-### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg) [![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)](https://github.com/andrefrsousa/SuperBottomSheet)
+### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg) [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/andrefrsousa/SuperBottomSheet/releases/)
 Android native BottomSheet on steroids.
 
 <br/>
