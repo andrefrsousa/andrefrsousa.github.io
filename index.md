@@ -99,17 +99,17 @@ Developed for Vodafone, Vodafone Message+ brings instant messaging compliant wit
 
 ## Published apps 💪
 
-### [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ![](https://img.shields.io/badge/play_store-v1.5-88CCF8.svg)
+### [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ![](https://img.shields.io/badge/play_store-v1.5-blue.svg)
 Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
 
 <br/>
 
-### [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ![](https://img.shields.io/badge/play_store-v1.2-88CCF8.svg)
+### [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ![](https://img.shields.io/badge/play_store-v1.2-blue.svg)
 ASCII Faces is a tool that contains a list of best ASCII emoticons that can be added to the device clipboard and pasted on any app.
 
 <br/>
 
-### [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ![](https://img.shields.io/badge/play_store-v1.5-88CCF8.svg)
+### [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ![](https://img.shields.io/badge/play_store-v1.5-blue.svg)
 Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
 
 <br/>
@@ -118,7 +118,7 @@ Ministry Assistant is a helpful tool that makes the ministry more organized and 
 
 ## Open source projects 👌
 
-### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
+### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg)
 Android native BottomSheet on steroids.
 
 <br/>
@@ -127,12 +127,12 @@ Android native BottomSheet on steroids.
 
 ## Blog posts 💡
 
-### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-747474.svg) ![](https://img.shields.io/badge/gradle-558b2f.svg)
+### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-lightgrey.svg) ![](https://img.shields.io/badge/gradle-gree.svg)
 Use gradle plugin to publish app updates into google play.
 
 <br/>
 
-### [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg)
+### [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-brightgreen.svg)
 My Android top three podcast list.
 
 <br/>
