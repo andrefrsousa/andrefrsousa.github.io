@@ -101,17 +101,17 @@ Developed for Vodafone, Vodafone Message+ brings instant messaging compliant wit
 
 ## Published apps 💪
 
-### [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ![](https://img.shields.io/badge/play_store-v1.5-blue.svg)
+### [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ![](https://img.shields.io/badge/release-v1.5-blue.svg)
 Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
 
 <br/>
 
-### [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ![](https://img.shields.io/badge/play_store-v1.2-blue.svg)
+### [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ![](https://img.shields.io/badge/release-v1.2-blue.svg)
 ASCII Faces is a tool that contains a list of best ASCII emoticons that can be added to the device clipboard and pasted on any app.
 
 <br/>
 
-### [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ![](https://img.shields.io/badge/play_store-v1.5-blue.svg)
+### [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ![](https://img.shields.io/badge/release-v1.5-blue.svg)
 Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
 
 <br/>
