@@ -127,7 +127,7 @@ Android native BottomSheet on steroids.
 
 ## Blog posts 💡
 
-### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-lightgrey.svg) ![](https://img.shields.io/badge/gradle-gree.svg)
+### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-lightgrey.svg) ![](https://img.shields.io/badge/gradle-green.svg)
 Use gradle plugin to publish app updates into google play.
 
 <br/>
