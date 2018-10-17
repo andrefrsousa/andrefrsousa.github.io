@@ -153,7 +153,6 @@ andrefrsousa@icloud.com
 
 <center>
 
-  <h4 class="links"><a href="https://www.linkedin.com/in/andrefrsousa/">LinedIn</a> / <a href="https://github.com/andrefrsousa">GitHub</a> / <a href="https://stackoverflow.com/users/1574250/andré-sousa">StackOverflow</a> / <a href="https://medium.com/@andrefrsousa">Medium</a> / <a href="https://twitter.com/andrefrsousa">Twitter</a> / <a href="mailto:andrefrsousa@icloud.com">Email</a></h4>
   <h5>© 2018 André Sousa</h5>
 
 </center>
