@@ -48,7 +48,7 @@ layout: default
 <hr />
 <br/>
 
-## **About me 👱‍♂️**
+## About me 👱‍♂️
 
 Hello! I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. Since 2012 I’ve been working on [@WIT_Software](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FWIT_Software&sa=D&sntz=1&usg=AFQjCNGvrLh_7lGUHtOvTw5r1g4arrodRw) as a senior android developer from [#Leiria](https://www.google.com/maps/place/Leiria/)
 
@@ -59,7 +59,7 @@ I also drink coffee ☕️
 <hr />
 <br/>
 
-## **Apps I was involved in 👨🏻‍💻**
+## Apps I was involved in 👨🏻‍💻
 
 ### [**Plus Message**](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018 - Now)
 Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
@@ -93,7 +93,7 @@ Developed for Vodafone, Vodafone Message+ brings instant messaging compliant wit
 <hr />
 <br/>
 
-## **Published apps 💪**
+## Published apps 💪
 
 ### [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ![](https://img.shields.io/badge/play_store-v1.5-88CCF8.svg)
 Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
@@ -112,30 +112,30 @@ Ministry Assistant is a helpful tool that makes the ministry more organized and 
 <hr />
 <br/>
 
-## **Open source projects 👌🏻**
+## Open source projects 👌
 
-### [**SuperBottomSheet**](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-bef67a.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
+### [**SuperBottomSheet**](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
 Android native BottomSheet on steroids.
 
 <br/>
 <hr />
 <br/>
 
-## **Blog posts 💡**
+## Blog posts 💡
 
 ### [**Publishing Apps Updates Like a PRO**](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-747474.svg) ![](https://img.shields.io/badge/gradle-558b2f.svg)
 Use gradle plugin to publish app updates into google play.
 
 <br/>
 
-### [**Android Podcasts You Should Listen**](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-bef67a.svg)
+### [**Android Podcasts You Should Listen**](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg)
 My Android top three podcast list.
 
 <br/>
 <hr />
 <br/>
 
-## **Contacts 👋**
+## Contacts 👋
 
 ### [**Twitter DM**](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
 ### [**Email**](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com
