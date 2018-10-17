@@ -137,8 +137,11 @@ My Android top three podcast list.
 
 ## Contacts 👋
 
-### [Twitter DM](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
-### [Email](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com
+### [Twitter DM](https://twitter.com/messages/compose?recipient_id=1048843283613605888)
+@andrefrsousa
+
+### [Email](mailto:andrefrsousa@icloud.com)
+andrefrsousa@icloud.com
 
 <br/>
 
