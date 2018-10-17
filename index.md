@@ -114,7 +114,7 @@ Ministry Assistant is a helpful tool that makes the ministry more organized and 
 
 ## **Open source projects 👌🏻**
 
-### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-5CB23F.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
+### [**SuperBottomSheet**](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-$icons-color.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
 Android native BottomSheet on steroids.
 
 <br/>
@@ -123,12 +123,12 @@ Android native BottomSheet on steroids.
 
 ## **Blog posts 💡**
 
-### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-747474.svg) ![](https://img.shields.io/badge/gradle-388e3c.svg)
+### [**Publishing Apps Updates Like a PRO**](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-747474.svg) ![](https://img.shields.io/badge/gradle-558b2f.svg)
 Use gradle plugin to publish app updates into google play.
 
 <br/>
 
-### [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-5CB23F.svg)
+### [**Android Podcasts You Should Listen**](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg)
 My Android top three podcast list.
 
 <br/>
@@ -137,8 +137,8 @@ My Android top three podcast list.
 
 ## **Contacts 👋**
 
-### [Twitter DM](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
-### [Email](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com
+### [**Twitter DM**](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
+### [**Email**](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com
 
 <br/>
 
