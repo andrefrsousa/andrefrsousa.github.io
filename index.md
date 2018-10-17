@@ -73,7 +73,7 @@ I also drink coffee ☕️
 
 <br/>
 
-## My side projects 💪
+## Published apps 💪
 
 - [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ~ Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
 
@@ -81,7 +81,12 @@ I also drink coffee ☕️
 
 - [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
 
-- [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ~ Android native BottomSheet on steroids.
+<br/>
+
+## Open source projects 💪
+
+[SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) [![](https://img.shields.io/badge/android-43a047.svg)]
+Android native BottomSheet on steroids.
 
 <br/>
 

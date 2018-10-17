@@ -92,34 +92,34 @@ hr {
 }
 
 .sharebuttons ul li svg {
-    width:42px;
-    height: 42px;
-    padding: 4px;
-    margin: 4px;
+    width: $icons-size;
+    height: $icons-size;
+    padding: $icons-padding;
+    margin: $icons-margin;
 }
 
 .sharebuttons .linkedin svg {
-    fill: #424242;
+    fill: $icons-color;
 }
 
 .sharebuttons .gitlab svg {
-    fill: #424242;
+    fill: $icons-color;
 }
 
 .sharebuttons .stackoverflow svg {
-    fill: #424242;
+    fill: $icons-color;
 }
 
 .sharebuttons .medium svg {
-    fill: #424242;
+    fill: $icons-color;
 }
 
 .sharebuttons .twitter svg {
-    fill: #424242;
+    fill: $icons-color;
 }
 
 .sharebuttons .email svg {
-    fill: #424242;
+    fill: $icons-color;
 }
 
 /* Other  */
