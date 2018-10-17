@@ -6,10 +6,17 @@ body {
     line-height: $base-line-height;
     color: $text-color;
 }
+
 p {
     text-align: justify;
     word-break: break-word;
 }
+
+br {
+   display: block;
+   margin: 10px 0;
+}
+
 a {
     color: $link-color;
     text-decoration: none;
