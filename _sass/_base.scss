@@ -21,11 +21,34 @@ a {
         text-decoration: underline;
     }
 }
-h1,
-h2,
-h3,
-h4,
-h5,
+
+h1 {
+    font-weight: 400;
+    word-break: break-word;
+}
+
+h2 {
+    font-weight: 400;
+    word-break: break-word;
+    margin-top: 0.2em;
+}
+
+h3 {
+    font-weight: 400;
+    word-break: break-word;
+    margin-bottom: 0.2em;
+}
+
+h4 {
+    font-weight: 400;
+    word-break: break-word;
+}
+
+h5 {
+    font-weight: 400;
+    word-break: break-word;
+}
+
 h6 {
     font-weight: 400;
     word-break: break-word;
