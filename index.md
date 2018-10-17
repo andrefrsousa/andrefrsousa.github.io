@@ -56,6 +56,8 @@ I am also a full-time husband and father that in its spare time like to do code 
 I also drink coffee ☕️
 
 <br/>
+<hr />
+<br/>
 
 ## Apps I was involved in 👨🏻‍💻
 
@@ -72,30 +74,45 @@ I also drink coffee ☕️
 - [**Vodafone Message+**](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013) ~ Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
 
 <br/>
+<hr />
+<br/>
 
 ## Published apps 💪
 
-- [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ~ Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
+### [Activity Manager](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.activitymanager) (2018) ![](https://img.shields.io/badge/play_store-v1.5-88CCF8.svg)
+Activity manager is an app that launches hidden activities and creates home screen shortcuts for installed apps.
 
-- [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ~ ASCII Faces is a tool that contains a list of best ASCII emoticons that can be added to the device clipboard and pasted on any app.
+<br/>
 
-- [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ~ Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
+### [ASCII Faces](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ascii) (2018) ![](https://img.shields.io/badge/play_store-v1.2-88CCF8.svg)
+ASCII Faces is a tool that contains a list of best ASCII emoticons that can be added to the device clipboard and pasted on any app.
 
+<br/>
+
+### [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ![](https://img.shields.io/badge/play_store-v1.5-88CCF8.svg)
+Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
+
+<br/>
+<hr />
 <br/>
 
 ## Open source projects 👌🏻
 
-### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/Android-8bc34a.svg) ![](https://img.shields.io/badge/Kotlin-ffc107.svg)
+### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-AFBF5B.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
 Android native BottomSheet on steroids.
 
+<br/>
+<hr />
 <br/>
 
 ## Blog posts 💡
 
-### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/Android_Studio-9e9e9e.svg) ![](https://img.shields.io/badge/Gragle-616161.svg)
+### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-747474.svg) ![](https://img.shields.io/badge/gradle-388e3c.svg)
 Use gradle plugin to publish app updates into google play.
 
-### [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/Android-8bc34a.svg)
+<br/>
+
+### [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-AFBF5B.svg)
 My Android top three podcast list.
 
 <br/>
