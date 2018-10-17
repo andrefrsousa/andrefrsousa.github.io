@@ -54,10 +54,12 @@ Hello! 👋
 
 I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. 
 
-Since 2012 I’ve been working on [@WIT_Software](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FWIT_Software&sa=D&sntz=1&usg=AFQjCNGvrLh_7lGUHtOvTw5r1g4arrodRw) as a senior android developer from [#Leiria](https://www.google.com/maps/place/Leiria/)
+<br/>
+Since 2012 I’ve been working on [@WIT_Software](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FWIT_Software&sa=D&sntz=1&usg=AFQjCNGvrLh_7lGUHtOvTw5r1g4arrodRw) as a senior android developer from [#Leiria](https://www.google.com/maps/place/Leiria/).
 
+<br/>
 I am also a full-time husband and father that in its spare time like to do code review and develop some android apps.
-I also drink coffee ☕️
+I also drink coffee ☕️.
 
 <br/>
 <hr />
