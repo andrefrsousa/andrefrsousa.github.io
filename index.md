@@ -61,22 +61,22 @@ I also drink coffee ☕️
 
 ## Apps I was involved in 👨🏻‍💻
 
-### [**Plus Message**](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018 - Now)
+### [Plus Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018 - Now)
 Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
 
 <br/>
 
-### [**WIT RCS Apps**](https://www.wit-software.com/products/rcs-suite/) (2013 - Now)
+### [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013 - Now)
 Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
 
 <br/>
 
-### [**Jio4GVoice**](https://play.google.com/store/apps/details?id=com.jio.join) (2014 - 2016) 
+### [Jio4GVoice](https://play.google.com/store/apps/details?id=com.jio.join) (2014 - 2016) 
 App that aims to deliver rich communication through instant messaging and VoIP calls to the Indian market. Compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
 
 <br/>
 
-### <del>[**Wavee**](https://play.google.com/store/apps/details?id=com.singtel.wavee.release) (2014 - 2016)</del>
+### <del>[Wavee](https://play.google.com/store/apps/details?id=com.singtel.wavee.release) (2014 - 2016)</del>
 Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/). No longer available in the Google Play Store.
 
 <br/>
@@ -86,7 +86,7 @@ Shop assistant for mobile devices running on Android tablet connected to a serve
 
 <br/>
 
-### [**Vodafone Message+**](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013)
+### [Vodafone Message+](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013)
 Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
 
 <br/>
@@ -114,7 +114,7 @@ Ministry Assistant is a helpful tool that makes the ministry more organized and 
 
 ## Open source projects 👌
 
-### [**SuperBottomSheet**](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
+### [SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
 Android native BottomSheet on steroids.
 
 <br/>
@@ -123,12 +123,12 @@ Android native BottomSheet on steroids.
 
 ## Blog posts 💡
 
-### [**Publishing Apps Updates Like a PRO**](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-747474.svg) ![](https://img.shields.io/badge/gradle-558b2f.svg)
+### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-747474.svg) ![](https://img.shields.io/badge/gradle-558b2f.svg)
 Use gradle plugin to publish app updates into google play.
 
 <br/>
 
-### [**Android Podcasts You Should Listen**](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg)
+### [Android Podcasts You Should Listen](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg)
 My Android top three podcast list.
 
 <br/>
@@ -137,8 +137,8 @@ My Android top three podcast list.
 
 ## Contacts 👋
 
-### [**Twitter DM**](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
-### [**Email**](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com
+### [Twitter DM](https://twitter.com/messages/compose?recipient_id=1048843283613605888) ~ @andrefrsousa
+### [Email](mailto:andrefrsousa@icloud.com) ~ andrefrsousa@icloud.com
 
 <br/>
 
