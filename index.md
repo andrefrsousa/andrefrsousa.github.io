@@ -114,7 +114,7 @@ Ministry Assistant is a helpful tool that makes the ministry more organized and 
 
 ## **Open source projects 👌🏻**
 
-### [**SuperBottomSheet**](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
+### [**SuperBottomSheet**](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/badge/android-bef67a.svg) ![](https://img.shields.io/badge/kotlin-5B82F7.svg)
 Android native BottomSheet on steroids.
 
 <br/>
@@ -128,7 +128,7 @@ Use gradle plugin to publish app updates into google play.
 
 <br/>
 
-### [**Android Podcasts You Should Listen**](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-9ccc65.svg)
+### [**Android Podcasts You Should Listen**](https://medium.com/@andrefrsousa/android-podcasts-you-should-listen-e6e4101eeb5a) (2018) ![](https://img.shields.io/badge/android-bef67a.svg)
 My Android top three podcast list.
 
 <br/>
