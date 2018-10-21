@@ -59,6 +59,8 @@ Since 2012 I’ve been working on [@WIT_Software](https://twitter.com/wit_softwa
 
 <br/>
 I am also a full-time husband and father that in its spare time like to do code review and develop some android apps. My favorite things right now are **kotlin** and **nodejs**.
+
+<br/>
 I also drink coffee ☕️.
 
 <br/>
@@ -150,11 +152,4 @@ My Android top three podcast list.
 andrefrsousa@icloud.com
 
 <br/>
-<hr />
 <br/>
-
-<center>
-
-  <h5>© 2018 André Sousa</h5>
-
-</center>
