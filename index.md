@@ -7,7 +7,7 @@ layout: default
 <center>
 	<img width="160" height="160" src="/images/me.png">
 	<h1 class="title">André Sousa</h1>
-	<h3 class="description">Senior software developer</h3>
+	<h3 class="description">Design-focused Engineer | Front-end Developer | Open-Source Enthusiast | Android | Husband | Foodie</h3>
 	<div class="sharebuttons">
         <ul>
            <li class="linkedin">
@@ -55,10 +55,10 @@ Hello! 👋
 I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. 
 
 <br/>
-Since 2012 I’ve been working on [@WIT_Software](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FWIT_Software&sa=D&sntz=1&usg=AFQjCNGvrLh_7lGUHtOvTw5r1g4arrodRw) as a senior android developer from [#Leiria](https://www.google.com/maps/place/Leiria/).
+Since 2012 I’ve been working on [@WIT_Software](https://twitter.com/wit_software) as a **senior android developer** from [#Leiria](https://www.google.com/maps/place/Leiria/).
 
 <br/>
-I am also a full-time husband and father that in its spare time like to do code review and develop some android apps.
+I am also a full-time husband and father that in its spare time like to do code review and develop some android apps. My favorite things right now are **kotlin** and **nodejs**.
 I also drink coffee ☕️.
 
 <br/>
