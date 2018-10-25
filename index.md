@@ -126,6 +126,16 @@ Ministry Assistant is a helpful tool that makes the ministry more organized and 
 Android native BottomSheet on steroids.
 
 <br/>
+
+### [SuperToolbar](https://github.com/andrefrsousa/SuperToolbar) (2018) ![](https://img.shields.io/github/release/andrefrsousa/SuperToolbar.svg) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg)
+Android native Toolbar on steroids.
+
+<br/>
+
+### [Android Medium Stories Compilation](https://github.com/andrefrsousa/AndroidMediumStoriesCompilation) (2018) ![](https://img.shields.io/badge/tutorials-yellowgreen.svg) ![](https://img.shields.io/badge/development-red.svg)
+Android native Toolbar on steroids.
+
+<br/>
 <hr />
 <br/>
 
