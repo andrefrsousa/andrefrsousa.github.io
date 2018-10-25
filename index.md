@@ -5,7 +5,7 @@ layout: default
 <br/>
 
 <center>
-	<img class="avatar" src="/images/me.png">
+	<img class="avatar" width="160" height="160" src="/images/me.png">
 	<h1 class="title">André Sousa</h1>
 	<h3 class="description">Design-focused Engineer | Front-end Developer | Open-Source Enthusiast | Android | Husband | Foodie</h3>
 	<div class="sharebuttons">
@@ -85,7 +85,7 @@ App that aims to deliver rich communication through instant messaging and VoIP c
 <br/>
 
 ### <del>[Wavee](https://play.google.com/store/apps/details?id=com.singtel.wavee.release) (2014 - 2016)</del>
-Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/). No longer available in the Google Play Store.
+Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/). No longer available in the Google Play Store 😢
 
 <br/>
 
