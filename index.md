@@ -5,7 +5,7 @@ layout: default
 <br/>
 
 <center>
-	<img width="160" height="160" src="/images/me.png">
+	<img class="avatar" src="/images/me.png">
 	<h1 class="title">André Sousa</h1>
 	<h3 class="description">Design-focused Engineer | Front-end Developer | Open-Source Enthusiast | Android | Husband | Foodie</h3>
 	<div class="sharebuttons">
