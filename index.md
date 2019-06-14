@@ -55,7 +55,7 @@ Hello! 👋
 I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. 
 
 <br/>
-Since 2012 I’ve been working on [@WIT_Software](https://twitter.com/wit_software) as a **senior android developer** from [#Leiria](https://www.google.com/maps/place/Leiria/).
+Since 2012 I’ve been working on [@WIT_Software](https://twitter.com/wit_software) as a **Android Lead Software Engineer** from [#Leiria](https://www.google.com/maps/place/Leiria/).
 
 <br/>
 I am also a full-time husband and father that in its spare time like to do code review and develop some android apps. My favorite things right now are **kotlin** and **python**.
