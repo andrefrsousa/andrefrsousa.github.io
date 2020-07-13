@@ -112,11 +112,6 @@ Activity manager is an app that launches hidden activities and creates home scre
 ASCII Faces is a tool that contains a list of best ASCII emoticons that can be added to the device clipboard and pasted on any app.
 
 <br/>
-
-### [Ministry Assistant](https://play.google.com/store/apps/details?id=com.andrefrsousa.tools.ministrypad) (2018) ![](https://img.shields.io/badge/release-v1.5-blue.svg)
-Ministry Assistant is a helpful tool that makes the ministry more organized and efficient.
-
-<br/>
 <hr />
 <br/>
 
