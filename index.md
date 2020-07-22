@@ -50,8 +50,6 @@ layout: default
 
 ## About me 👱‍♂️
 
-Hello! 👋
-
 I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. 
 
 <br/>
