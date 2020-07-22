@@ -68,22 +68,22 @@ I also drink coffee ☕️.
 ## Apps I was involved in 👨🏻‍💻
 
 ### [Plus Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018 - Now)
-Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
+Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
 
 <br/>
 
 ### [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013 - Now)
-Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
+Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
 
 <br/>
 
 ### [Jio4GVoice](https://play.google.com/store/apps/details?id=com.jio.join) (2014 - 2016) 
-App that aims to deliver rich communication through instant messaging and VoIP calls to the Indian market. Compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
+App that aims to deliver rich communication through instant messaging and VoIP calls to the Indian market. Compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
 
 <br/>
 
 ### <del>[Wavee](https://play.google.com/store/apps/details?id=com.singtel.wavee.release) (2014 - 2016)</del>
-Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/). No longer available in the Google Play Store 😢
+Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/). No longer available in the Google Play Store 😢
 
 <br/>
 
@@ -93,7 +93,7 @@ Shop assistant for mobile devices running on Android tablet connected to a serve
 <br/>
 
 ### [Vodafone Message+](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013)
-Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/rcs-documentation/).
+Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
 
 <br/>
 <hr />
