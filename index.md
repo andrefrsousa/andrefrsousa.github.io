@@ -21,7 +21,7 @@ layout: default
               </a>
            </li>
            <li class="stackoverflow">
-              <a href="https://stackoverflow.com/users/1574250/andré-sousa">
+              <a href="https://stackoverflow.com/users/1574250/andré-sousa?tab=profile">
               {% include social/stackoverflow.svg %}
               </a>
            </li>
@@ -50,13 +50,13 @@ layout: default
 
 ## About me 👱‍♂️
 
-I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my Bachelors degree in Computer Science and a Masters in Mobile Computing. 
+I was born in the city of Leiria, in 1990. I studied at the Polytechnic Institute of Leiria where I got my graduation in Computer Science and a master's in Mobile Computing. 
 
 <br/>
-Since 2012 I’ve been working on [@WIT_Software](https://twitter.com/wit_software) as a **Android Lead Software Engineer** from [#Leiria](https://www.google.com/maps/place/Leiria/).
+Since 2012 I’ve been working on [@WIT_Software](https://twitter.com/wit_software) as an **Android Lead Software Engineer** from [#Leiria](https://www.google.com/maps/place/Leiria/).
 
 <br/>
-I am also a full-time husband and father that in its spare time like to do code review and develop some android apps. My favorite things right now are **kotlin** and **python**.
+I am also a full-time husband and father that in its spare time I like to do code review and develop some android apps. My favorite things right now are **kotlin** and **python**.
 
 <br/>
 I also drink coffee ☕️.
@@ -67,23 +67,23 @@ I also drink coffee ☕️.
 
 ## Apps I was involved in 👨🏻‍💻
 
-### [Plus Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018 - Now)
-Developed for the Japan market, Plus message is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
+### [+Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage) (2018 - Now)
+Developed for the Japanese operators KDDI, NTT DOCOMO, and SoftBank, +Message is an instant messaging app compliant with the [GSMA | RCS](https://www.gsma.com/futurenetworks/rcs/) that provides full interoperability and common user experience for next-generation messaging.
 
 <br/>
 
 ### [WIT RCS Apps](https://www.wit-software.com/products/rcs-suite/) (2013 - Now)
-Instant messaging and VoIP Android apps compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
+Instant messaging and VoIP Android apps compliant with the [GSMA | RCS](https://www.gsma.com/futurenetworks/rcs/).
 
 <br/>
 
-### [Jio4GVoice](https://play.google.com/store/apps/details?id=com.jio.join) (2014 - 2016) 
-App that aims to deliver rich communication through instant messaging and VoIP calls to the Indian market. Compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
+### [JioCall](https://play.google.com/store/apps/details?id=com.jio.join) (2014 - 2016) 
+An app that aims to deliver rich communication through instant messaging and VoIP calls to the Indian market. Compliant with the [GSMA | RCS](https://www.gsma.com/futurenetworks/rcs/).
 
 <br/>
 
 ### <del>[Wavee](https://play.google.com/store/apps/details?id=com.singtel.wavee.release) (2014 - 2016)</del>
-Developed for the Singapore market, Wavee is an instant messaging app compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/). No longer available in the Google Play Store 😢
+Developed for the Singapore market, Wavee is an instant messaging app compliant with the [GSMA | RCS](https://www.gsma.com/futurenetworks/rcs/). No longer available in the Google Play Store 😢
 
 <br/>
 
@@ -92,8 +92,8 @@ Shop assistant for mobile devices running on Android tablet connected to a serve
 
 <br/>
 
-### [Vodafone Message+](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013)
-Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [RCS specification](https://www.gsma.com/futurenetworks/rcs/).
+### <del>[Vodafone Message+](https://play.google.com/store/apps/details?id=com.vodafone.messaging) (2012 - 2013)</del>
+Developed for Vodafone, Vodafone Message+ brings instant messaging compliant with the [GSMA | RCS](https://www.gsma.com/futurenetworks/rcs/). No longer available in the Google Play Store 😢
 
 <br/>
 <hr />
@@ -121,7 +121,7 @@ Android native BottomSheet on steroids. This library allows you to show bottom s
 <br/>
 
 ### [Super Toolbar](https://github.com/andrefrsousa/SuperToolbar) (2018) ![](https://img.shields.io/github/stars/andrefrsousa/supertoolbar.svg?style=social&label=Star) ![](https://img.shields.io/github/release/andrefrsousa/SuperToolbar.svg) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg)
-Android native Toolbar on steroids. Some key features are: animate the toolbar elevation when scrolling, center toolbar title and use a light title font.
+Android native Toolbar on steroids. Some key features are: animate the toolbar elevation when scrolling, center toolbar title, and use a light title font.
 
 <br/>
 
@@ -135,7 +135,7 @@ The goal of this project is to compile Android medium stories into a single plac
 ## Blog posts 💡
 
 ### [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) (2018) ![](https://img.shields.io/badge/android_studio-lightgrey.svg) ![](https://img.shields.io/badge/gradle-green.svg)
-Use gradle plugin to publish app updates into google play.
+Use the gradle plugin to publish app updates into google play.
 
 <br/>
 
