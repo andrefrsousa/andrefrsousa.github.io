@@ -115,12 +115,12 @@ ASCII Faces is a tool that contains a list of best ASCII emoticons that can be a
 
 ## Open source projects 👌
 
-### [Super Bottom Sheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/github/stars/andrefrsousa/superbottomsheet.svg?style=social&label=Star) ![](https://jitpack.io/v/andrefrsousa/SuperBottomSheet.svg) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg)
+### [Super Bottom Sheet](https://github.com/andrefrsousa/SuperBottomSheet) (2018) ![](https://img.shields.io/github/stars/andrefrsousa/superbottomsheet.svg?style=social&label=Star) ![](https://img.shields.io/github/release/andrefrsousa/SuperBottomSheet.svg) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg)
 Android native BottomSheet on steroids. This library allows you to show bottom sheets in your app with the bonus of animating the status bar color and the top rounded corners as you scroll.
 
 <br/>
 
-### [Super Toolbar](https://github.com/andrefrsousa/SuperToolbar) (2018) ![](https://img.shields.io/github/stars/andrefrsousa/supertoolbar.svg?style=social&label=Star) ![](https://jitpack.io/v/andrefrsousa/SuperToolbar.svg) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg)
+### [Super Toolbar](https://github.com/andrefrsousa/SuperToolbar) (2018) ![](https://img.shields.io/github/stars/andrefrsousa/supertoolbar.svg?style=social&label=Star) ![](https://img.shields.io/github/release/andrefrsousa/SuperToolbar.svg) ![](https://img.shields.io/badge/android-brightgreen.svg) ![](https://img.shields.io/badge/kotlin-orange.svg)
 Android native Toolbar on steroids. Some key features are: animate the toolbar elevation when scrolling, center toolbar title, and use a light title font.
 
 <br/>
