@@ -67,7 +67,7 @@ I may update the Privacy Policy from time to time. Thus, you are advised to revi
 <br/>
 
 ## Constact us
-If you require any more information or have any questions about our privacy policy, please feel free to contact me by email at [<span class="blue">andrefrsousa@cloud.com</span>](mailto:andrefrsousa@icloud.com)
+If you require any more information or have any questions about our privacy policy, please feel free to contact me by email at [<span class="blue">andrefrsousa@cloud.com</span>](mailto:andrefrsousa@gmail.com)
 
 <br/>
 
