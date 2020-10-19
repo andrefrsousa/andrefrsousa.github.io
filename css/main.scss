@@ -6,7 +6,7 @@
 
 $base-font-family: 'Roboto', sans-serif;
 $base-font-size:   17px;
-$small-font-size:  0.875rem;
+$small-font-size:  13px;
 $base-line-height: 1.4;
 
 $icons-color:   #333;
@@ -19,7 +19,7 @@ $link-color:   #1976d2;
 $meta-color:   #a0a0a0;
 $border-color: #ddd;
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,400i);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap);
 @import "color";
 @import "base";
 @import "layout";

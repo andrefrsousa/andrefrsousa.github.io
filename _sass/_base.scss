@@ -14,6 +14,15 @@ p {
     margin-bottom: 0.5em;
 }
 
+footer p {
+    font-size:  $small-font-size;
+    color:  $color-gray;
+    text-align: center;
+    word-break: break-word;
+    margin-top: 0.5em; 
+    margin-bottom: 0.5em;
+}
+
 a {
     color: $link-color;
     text-decoration: none;
@@ -168,6 +177,7 @@ img.avatar {
 }
 
 h1.title {
+    color: $link-color;
     font-weight: 500;
     word-break: break-word;
     margin: 0;
