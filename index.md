@@ -9,7 +9,7 @@ layout: default
 
 - ☀️ I use these file extensions daily: *.java*, *.kt*, *.py*
 
-- 📫 How you can reach me: [Twitter](https://twitter.com/andrefrsousa), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/), [GitHub](https://github.com/andrefrsousa), [Stackoverflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [Medium](href="https://medium.com/andré-sousa)
+- 📫 How you can reach me: [Twitter](https://twitter.com/andrefrsousa), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/), [GitHub](https://github.com/andrefrsousa), [Stack Overflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [Medium](href="https://medium.com/andré-sousa)
 
 - ⚡ Fun fact: I am also a full-time husband, father and a big fan of StarWars
 
