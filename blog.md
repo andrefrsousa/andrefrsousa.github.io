@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 ---
 
-## ✍️ Tech blog posts that I have posted
+## ✍️ Technical articles I have published
 
 - (Oct 11, 2018 · 4 min read) [Publishing Apps Updates Like a PRO](https://medium.com/@andrefrsousa/publishing-apps-updates-like-a-pro-558f3f308eda) ![](https://img.shields.io/badge/android_studio-lightgrey.svg) ![](https://img.shields.io/badge/gradle-green.svg)
 
