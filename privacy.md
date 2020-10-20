@@ -34,14 +34,14 @@ Cookies are files with a small amount of data, which are often used as anonymous
 This service does not explicitly use these "cookies". However, the application may use code from third parties and libraries that use "cookies" to collect information and improve their services. You have the ability to either accept or reject these cookies and know when a cookie is sent to your device. If you choose to decline our cookies, you may not be able to use some parts of this service.
 <br/>
 
-## Service Providers
-I may employ third-party companies and individuals due to the following reasons:
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+## Service provider
+For the following reasons I can employ third party companies and individuals:
+- To facilitate our service;
+- To provide the service on our behalf;
+- To provide service-related services; or
+- To help us analyse the use of our service.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+I would like to inform the users of this service that these third parties have access to your personal data. The reason for this is to perform the tasks assigned to them on our behalf. However, they are obliged not to disclose the information or use it for other purposes.
 
 <br/>
 
@@ -60,5 +60,4 @@ I will update Privacy Policy from time to time. We therefore recommend that you 
 ## To constitute us
 If you need further information or have any questions about our privacy policy, please feel free to contact me by e-mail at [andrefrsousa@gmail.com](mailto:andrefrsousa@gmail.com).
 
-*This privacy policy was last updated on: Thursday, October 20, 2020.
-
+*This privacy policy was last updated on: Thursday, October 20, 2020.*
