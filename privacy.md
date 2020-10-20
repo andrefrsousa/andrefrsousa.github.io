@@ -10,18 +10,18 @@ permalink: /privacy/
 
 <br/>
 
-The developer André Sousa respects the privacy of the users of his mobile applications, and this Privacy Policy is intended to describe the practices regarding the use of these applications. 
+The developer André Sousa respects the privacy of the users of its mobile applications, and this Privacy Policy is intended to describe the practices in the use of these applications. 
 
-If you choose to use any of my applications, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the apps. I will not use or share your information with anyone except as described in this Privacy Policy.
+If you choose to use any of my applications, you consent to the collection and use of information in connection with this policy. The personal information I collect will be used to provide and improve the applications. I will not use or share your information with third parties except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at apps unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meaning as in our terms and conditions, which are available at apps, unless otherwise defined in this Privacy Policy.
 
 <br/>
 
 ## Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
-The app does use third party services that may collect information used to identify you.
-Link to privacy policy of third party service providers used by the app
+For a better experience when using our service, I may ask you to provide us with certain personal information. The information I request will be stored on your device and will not be collected by me in any way.
+The App uses third-party services that may collect personally identifiable information.
+Link to the third-party privacy policies used by the App
 
 - [<span class="blue">Google Play Services</span>](https://www.google.com/policies/privacy/)
 - [<span class="blue">AdMob</span>](https://support.google.com/admob/answer/6128543?hl=en)
@@ -30,9 +30,8 @@ Link to privacy policy of third party service providers used by the app
 <br/>
 
 ## Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
+Cookies are files with a small amount of data, which are often used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored in your device's internal memory.
+This service does not explicitly use these "cookies". However, the application may use code from third parties and libraries that use "cookies" to collect information and improve their services. You have the ability to either accept or reject these cookies and know when a cookie is sent to your device. If you choose to decline our cookies, you may not be able to use some parts of this service.
 <br/>
 
 ## Service Providers
@@ -47,29 +46,19 @@ I want to inform users of this Service that these third parties have access to y
 <br/>
 
 ## Security
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+I appreciate your confidence in providing us with your personal information, which is why we strive to use commercially acceptable means to protect it. But please remember that no method of transmission over the Internet or electronic storage is 100% secure or reliable, and I cannot guarantee its absolute security.
 
-<br/>
+## Links to other sites
+This service may contain links to other websites. If you click on a third party link, you will be directed to that website. Please note that these external sites are not operated by me. Therefore I strongly advise you to check the Privacy Policy of these websites. I have no control over and am not responsible for the content, privacy policies or practices of third party websites or services.
 
-## Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## Privacy of children
+These services are not intended for persons under 13 years of age. I do not knowingly collect personally identifiable information from children under the age of 13. If I discover that a child under the age of 13 has provided me with personally identifiable information, I will immediately delete it from our servers. If you are a parent or guardian and you know that your child has provided us with personal information, please contact me so that I can take the necessary steps.
 
-<br/>
+## Changes to this privacy policy
+I will update Privacy Policy from time to time. We therefore recommend that you check this page regularly for changes. I will inform you about any changes by publishing the new Privacy Policy on this page. These changes will take effect immediately after their publication on this page.
 
-## Children’s Privacy
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+## To constitute us
+If you need further information or have any questions about our privacy policy, please feel free to contact me by e-mail at [andrefrsousa@gmail.com](mailto:andrefrsousa@gmail.com).
 
-<br/>
-
-## Changes to This Privacy Policy
-I may update the Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-<br/>
-
-## Constact us
-If you require any more information or have any questions about our privacy policy, please feel free to contact me by email at [<span class="blue">andrefrsousa@gmail.com</span>](mailto:andrefrsousa@gmail.com)
-
-<br/>
-
-*This Privacy Policy was last updated on: Thursday, October 4th, 2018.*
+*This privacy policy was last updated on: Thursday, October 20, 2020.
 
