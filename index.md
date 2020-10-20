@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## 👋 I am a frontend developer working in Leira, Portugal. 
+## 👋 I am a front-end developer working in Leira, Portugal. 
 ### TL;DR
 
 - I currently work at [WIT Software](https://twitter.com/wit_software) as ** Android Lead Software Engineer **
@@ -13,7 +13,7 @@ layout: default
 
 - Fun fact: I am also a full-time husband, father and a big fan of StarWars
 
-In my spare time I work on some open source libraries or Android apps.
+In my spare time, I work on some open source libraries or Android apps.
 **Here are some of my latest creations:**
 
 - [Super Bottom Sheet](https://github.com/andrefrsousa/SuperBottomSheet) ![](https://img.shields.io/github/release/andrefrsousa/SuperBottomSheet.svg?label=lib) ![](https://img.shields.io/badge/kotlin-orange.svg) ![](https://img.shields.io/github/stars/andrefrsousa/superbottomsheet.svg?style=social&label=Star)

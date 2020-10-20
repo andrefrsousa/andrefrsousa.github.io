@@ -15,4 +15,4 @@ permalink: /portfolio/
 
 - (2014 - 2016) [Wavee](https://play.google.com/store/apps/details?id=com.singtel.wavee.release). Wavee is an instant messaging application developed for the Singapore market and is an instant messaging application compliant with the [RCS](https://www.gsma.com/futurenetworks/rcs/).
 
-- (2018 - Now) [+Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage). +Message was developed for the Japanese operators KDDI, NTT DOCOMO and SoftBank. +Message is an instant messaging application that is compliant with the [RCS](https://www.gsma.com/futurenetworks/rcs/) and provides full interoperability and a common user experience for next generation messaging.
+- (2018 - Now) [+Message](https://play.google.com/store/apps/details?id=jp.softbank.mb.plusmessage). +Message was developed for the Japanese operators KDDI, NTT DOCOMO and SoftBank. +Message is an instant messaging application that is compliant with the [RCS](https://www.gsma.com/futurenetworks/rcs/) and provides full interoperability and a common user experience for next-generation messaging.
