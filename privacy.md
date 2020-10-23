@@ -30,11 +30,13 @@ Link to the third-party privacy policies used by the App
 <br/>
 
 ## Cookies
+
 Cookies are files with a small amount of data, which are often used as anonymous unique identifiers. They are sent to your browser from the websites you visit and stored in your device's internal memory.
 This service does not explicitly use these "cookies". However, the application may use code from third parties and libraries that use "cookies" to collect information and improve their services. You have the ability to either accept or reject these cookies and know when a cookie is sent to your device. If you choose to decline our cookies, you may not be able to use some parts of this service.
 <br/>
 
 ## Service provider
+
 For the following reasons I can employ third party companies and individuals:
 - To facilitate our service;
 - To provide the service on our behalf;
@@ -47,15 +49,19 @@ I would like to inform the users of this service that these third parties have a
 
 ## Security
 I appreciate your confidence in providing us with your personal information, which is why we strive to use commercially acceptable means to protect it. But please remember that no method of transmission over the Internet or electronic storage is 100% secure or reliable, and I cannot guarantee its absolute security.
+<br/>
 
 ## Links to other sites
 This service may contain links to other websites. If you click on a third party link, you will be directed to that website. Please note that these external sites are not operated by me. Therefore I strongly advise you to check the Privacy Policy of these websites. I have no control over and am not responsible for the content, privacy policies or practices of third party websites or services.
+<br/>
 
 ## Privacy of children
 These services are not intended for persons under 13 years of age. I do not knowingly collect personally identifiable information from children under the age of 13. If I discover that a child under the age of 13 has provided me with personally identifiable information, I will immediately delete it from our servers. If you are a parent or guardian and you know that your child has provided us with personal information, please contact me so that I can take the necessary steps.
+<br/>
 
 ## Changes to this privacy policy
 I will update Privacy Policy from time to time. We therefore recommend that you check this page regularly for changes. I will inform you about any changes by publishing the new Privacy Policy on this page. These changes will take effect immediately after their publication on this page.
+<br/>
 
 ## To constitute us
 If you need further information or have any questions about our privacy policy, please feel free to contact me by e-mail at [andrefrsousa@gmail.com](mailto:andrefrsousa@gmail.com).
