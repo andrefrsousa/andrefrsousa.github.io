@@ -3,7 +3,7 @@ layout: default
 permalink: /uses/
 ---
 
-## 👌 My current development setup
+## 👌 My development setup
 
 ### Hardware
 
@@ -24,13 +24,13 @@ permalink: /uses/
 - Charles
 - PyCharm CE
 
-
 ### Productivity
 
 - Apple Calendar
-- Notion (task management and notes)
+- Notion
+- Things 3
 - Safari
-- 1Password for password management
+- 1Password
 - Spotify
 - Slack
 
