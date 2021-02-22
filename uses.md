@@ -33,6 +33,8 @@ permalink: /uses/
 - 1Password
 - Spotify
 - Slack
+- Skype
+- Zoom
 
 
 
