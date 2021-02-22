@@ -12,7 +12,7 @@ permalink: /uses/
 - Apple Magic Keyboard (2009)
 - LogiTech Mx Master 3
 - Sony WH-1000XM4
-- Staples Surfline Bonded Leather Executive Chair
+- Actiu Winner Chair
 - Pixel 2
 
 ### Development Tools
