@@ -9,7 +9,7 @@ permalink: /uses/
 
 - MacBook Pro (13-inch, 2017); 2,3 GHz Intel Core i5, 16 GB 2133 MHz LPDDR3, Intel Iris Plus Graphics 640 1536 MB
 - HP Z23n G2
-- Apple Magic Keyboard (2009)
+- Apple Magic Keyboard with Numeric Keypad
 - LogiTech Mx Master 3
 - Sony WH-1000XM4
 - Actiu Winner Chair
