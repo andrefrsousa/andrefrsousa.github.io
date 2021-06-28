@@ -28,13 +28,13 @@ permalink: /uses/
 
 - Apple Calendar
 - Notion
-- Things 3
 - Safari
 - 1Password
 - Spotify
 - Slack
 - Skype
 - Zoom
+- Rocket.Chat
 
 
 
