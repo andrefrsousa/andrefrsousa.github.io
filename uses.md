@@ -8,12 +8,11 @@ permalink: /uses/
 ### Hardware
 
 - MacBook Pro (13-inch, 2017); 2,3 GHz Intel Core i5, 16 GB 2133 MHz LPDDR3, Intel Iris Plus Graphics 640 1536 MB
-- HP Z23n G2
+- Mi Curved Gaming Monitor 34"
 - Apple Magic Keyboard with Numeric Keypad
 - LogiTech Mx Master 3
 - Sony WH-1000XM4
 - Actiu Winner Chair
-- Pixel 2
 
 ### Development Tools
 
@@ -21,19 +20,22 @@ permalink: /uses/
 - Sublime Text 3
 - Postman
 - SQLite Studio
+- Realm Studio
 - Charles
 - PyCharm CE
 
 ### Productivity
 
 - Apple Calendar
-- Notion
+- Craft
+- Bullet Journal
 - Safari
 - 1Password
 - Spotify
 - Slack
 - Skype
 - Zoom
+- Discord
 - Rocket.Chat
 
 
