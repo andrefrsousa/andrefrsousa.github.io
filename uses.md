@@ -7,18 +7,18 @@ permalink: /uses/
 
 ### Hardware
 
-- MacBook Pro (13-inch, 2017); 2,3 GHz Intel Core i5, 16 GB 2133 MHz LPDDR3, Intel Iris Plus Graphics 640 1536 MB
+- MacBook Pro (14-inch, 2021); Apple M1 Pro, 32 GB
 - Mi Curved Gaming Monitor 34"
 - Apple Magic Keyboard with Numeric Keypad
-- LogiTech Mx Master 3
+- Apple Magic Mouse
 - Sony WH-1000XM4
-- Actiu Winner Chair
+- Noble Chair HERO Black Edition
 
 ### Development Tools
 
 - Android Studio
 - Sublime Text 3
-- Postman
+- RapidAPI
 - SQLite Studio
 - Realm Studio
 - Charles
