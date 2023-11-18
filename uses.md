@@ -27,8 +27,8 @@ permalink: /uses/
 ### Productivity
 
 - Apple Calendar
-- Craft
 - Bullet Journal
+- Notion
 - Safari
 - 1Password
 - Spotify
