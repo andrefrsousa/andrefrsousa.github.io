@@ -11,7 +11,7 @@ layout: default
 
 - 📫 How you can reach me: [Twitter](https://twitter.com/andrefrsousa), [LinkedIn](https://www.linkedin.com/in/andrefrsousa/), [GitHub](https://github.com/andrefrsousa), [Stack Overflow](https://stackoverflow.com/users/1574250/andré-sousa?tab=profile), [Medium](https://medium.com/andré-sousa)
 
-- ⚡ Fun fact: I am also a full-time husband, father and a big fan of Star Wars
+- ⚡ Fun fact: I am also a full-time father and a big fan of Star Wars
 
 In my spare time, I work on some open source libraries or Android apps.
 **Here are some of my latest creations:**
